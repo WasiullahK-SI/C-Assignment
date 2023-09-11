@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Match Details Management System/1.0.0": {
+        "runtime": {
+          "Match Details Management System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Match Details Management System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\wasiullah.khan\Desktop\.net folder\Match Details Management System\bin\Debug\net6.0\Match Details Management System.exe
+C:\Users\wasiullah.khan\Desktop\.net folder\Match Details Management System\bin\Debug\net6.0\Match Details Management System.deps.json
+C:\Users\wasiullah.khan\Desktop\.net folder\Match Details Management System\bin\Debug\net6.0\Match Details Management System.runtimeconfig.json
+C:\Users\wasiullah.khan\Desktop\.net folder\Match Details Management System\bin\Debug\net6.0\Match Details Management System.dll
+C:\Users\wasiullah.khan\Desktop\.net folder\Match Details Management System\bin\Debug\net6.0\Match Details Management System.pdb
+C:\Users\wasiullah.khan\Desktop\.net folder\Match Details Management System\obj\Debug\net6.0\Match Details Management System.csproj.AssemblyReference.cache
+C:\Users\wasiullah.khan\Desktop\.net folder\Match Details Management System\obj\Debug\net6.0\Match Details Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasiullah.khan\Desktop\.net folder\Match Details Management System\obj\Debug\net6.0\Match Details Management System.AssemblyInfoInputs.cache
+C:\Users\wasiullah.khan\Desktop\.net folder\Match Details Management System\obj\Debug\net6.0\Match Details Management System.AssemblyInfo.cs
+C:\Users\wasiullah.khan\Desktop\.net folder\Match Details Management System\obj\Debug\net6.0\Match Details Management System.csproj.CoreCompileInputs.cache
+C:\Users\wasiullah.khan\Desktop\.net folder\Match Details Management System\obj\Debug\net6.0\Match Details Management System.dll
+C:\Users\wasiullah.khan\Desktop\.net folder\Match Details Management System\obj\Debug\net6.0\refint\Match Details Management System.dll
+C:\Users\wasiullah.khan\Desktop\.net folder\Match Details Management System\obj\Debug\net6.0\Match Details Management System.pdb
+C:\Users\wasiullah.khan\Desktop\.net folder\Match Details Management System\obj\Debug\net6.0\Match Details Management System.genruntimeconfig.cache
+C:\Users\wasiullah.khan\Desktop\.net folder\Match Details Management System\obj\Debug\net6.0\ref\Match Details Management System.dll
